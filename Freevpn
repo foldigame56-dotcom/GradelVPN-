@@ -1,0 +1,18 @@
+#profile-title: tgk - @Gradelvpn
+#profile-update-interval: 1
+#support-url: https://t.me/gradelvpn
+#announce: 🚀 Gradelvpn Free | @gradelvpn
+
+vless://22308415-467c-4011-880f-c888b6b9e4c1@frw-8.harknmav.fun:443?type=grpc&security=tls&encryption=none&sni=frw-8.harknmav.fun&fp=random&alpn=h2&serviceName=media.playback.v1.SessionGateway&authority=media.playback.v1.SessionGateway#🇫🇷 VPN | Франция 
+
+vless://22308415-467c-4011-880f-c888b6b9e4c1@grw-6.harknmav.fun:443?type=grpc&security=tls&encryption=none&sni=grw-6.harknmav.fun&fp=random&alpn=h2&serviceName=media.playback.v1.SessionGateway&authority=media.playback.v1.SessionGateway#🇩🇪 VPN | Германия 
+
+vless://22308415-467c-4011-880f-c888b6b9e4c1@nlw-3.harknmav.fun:443?type=grpc&security=tls&encryption=none&sni=nlw-3.harknmav.fun&fp=chrome&alpn=h2&serviceName=media.playback.v1.SessionGateway&authority=media.playback.v1.SessionGateway#🇳🇱 VPN | Нидерланды 
+
+vless://22308415-467c-4011-880f-c888b6b9e4c1@kzw-2.harknmav.fun:443?type=grpc&security=tls&encryption=none&sni=kzw-2.harknmav.fun&fp=random&alpn=h2&serviceName=media.playback.v1.SessionGateway&authority=media.playback.v1.SessionGateway#🇰🇿 VPN | Казахстан 
+
+vless://22308415-467c-4011-880f-c888b6b9e4c1@belarus-10.harknmav.fun:443?type=grpc&security=tls&encryption=none&sni=belarus-10.harknmav.fun&fp=random&alpn=h2&serviceName=media.playback.v1.SessionGateway&authority=media.playback.v1.SessionGateway#🇧🇾 VPN | Беларусь 
+
+vless://22308415-467c-4011-880f-c888b6b9e4c1@uzw-2.harknmav.fun:443?type=grpc&security=tls&encryption=none&sni=uzw-2.harknmav.fun&fp=random&alpn=h2&serviceName=media.playback.v1.SessionGateway&authority=media.playback.v1.SessionGateway#🇺🇿 VPN | Узбекистан
+
+vless://22308415-467c-4011-880f-c888b6b9e4c1@usw-1.harknmav.fun:443?type=grpc&security=tls&encryption=none&sni=usw-1.harknmav.fun&fp=random&alpn=h2&serviceName=media.playback.v1.SessionGateway&authority=media.playback.v1.SessionGateway#🇺🇸 VPN | США 
