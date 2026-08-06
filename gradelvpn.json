@@ -5,30 +5,15 @@
 
 #announce:  ключ взят из тг @gradelvpn
 
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443?security=tls&insecure=0&sni=grape-zet-turbo-nl.yyuyy.com#🇳🇱  Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳🇱 Netherlands #2
-vless://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?security=&encryption=none&headerType=http&type=tcp#🇩🇪 Germany
-vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.0.100:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&sid=5e3ab3ab228625#🇮🇳 India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#🇳🇱 Netherlands #3
-vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.0.100:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&sid=5e3ab3ab228625#🇵🇱 Poland
-vless://254d715d-49be-43cf-a138-b4a4df713240@37.49.224.176:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=firefox&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🇳🇱 Netherlands #4
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.41.142:443?security=reality&encryption=none&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#🌐61Mb | 4911  🇳🇱 Netherlands #5
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.177.179:443?security=reality&encryption=none&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#🇺🇸 US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#🇳🇱 Netherlands 
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@203.23.179.151:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ddc-akn.astralweb.tech#🇩🇪 Germany
-hysteria2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443?security=tls&insecure=0&sni=de-tg.fastlanehosting.ru#🇩🇪 Germany
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ddc-chr.astralweb.tech#Server
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@45.144.220.93:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#🇷🇺 БС
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪 Germany 
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#🇳🇱 Netherlands 
-vless://6f40547a-1046-4194-8ca5-6f355897c3c6@77.221.151.158:443?security=reality&encryption=none&pbk=hEyhCVfwVjIWoXIkG_VfqJ0DsgXbhjap5Waqwq-NqGE&fp=random&type=grpc&serviceName=google.android.location.SyncService&sni=yandex.ru&sid=276a58a58edaa4#🇷🇺 WL
-vless://63f96e98-f83f-48d0-9cd0-f31e8071f67f@64.188.77.22:9443?mode=gun&security=reality&encryption=none&pbk=2p65iLhJgMXoswUfcKqh-bcVRzGN_KwnPpNThu4g-2w&fp=firefox&type=grpc&sni=www.amd.com&sid=f73f#🇳🇱 Netherlands 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#Random Server
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#🇬🇧 UK
-vless://254d715d-49be-43cf-a138-b4a4df713240@37.49.224.176:16923?security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=firefox&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🇳🇱 NL (wl)
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443?security=tls&insecure=0&sni=de-two.quiet-rogue.site#Germany 🇩🇪
-vless://e8ef44e0-c7b8-4210-8111-16679d7d319e@45.12.62.80:443?security=reality&encryption=none&pbk=Uaq2YojNeUXGkaCPKxcR_IF9iaatuc3srHfFuwwG7FA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=a19516e2d20b09e9#🇳🇱 NL
-vless://cb6bb7e2-10eb-43c2-8f2d-8bcae493dbb0@37.49.224.176:16923?security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=ios&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🇫🇷 France
-vless://c3f51fba-4d0a-0029-8bc5-5f291ccc4d97@93.189.63.146:443?mode=packet-up&path=/static&security=reality&encryption=none&extra=%7B%0A%20%20%22xmux%22%20:%20%7B%0A%20%20%20%20%22cMaxReuseTimes%22%20:%200,%0A%20%20%20%20%22hKeepAlivePeriod%22%20:%200,%0A%20%20%20%20%22hMaxRequestTimes%22%20:%20%22600-900%22,%0A%20%20%20%20%22hMaxReusableSecs%22%20:%20%221800-3000%22,%0A%20%20%20%20%22maxConnections%22%20:%202%0A%20%20%7D%0A%7D&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&fp=firefox&type=xhttp&sni=mm.melbicom.net&sid=3b5b38669a1a51c0#🇸🇪Telegram?serverDescription=VGVsZWdyYW0sIENoYXRHUFQsIEdlbWluaQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#🇬🇧 UK
+vless://bed8856b-3b0e-4c4c-8fe0-25b7824a88b2@31.200.250.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=api.max.ru&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&sid=e8c3ff51&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%F0%9F%8F%B3%EF%B8%8F
+vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?type=raw&security=reality&flow=xtls-rprx-vision&encryption=none&sni=rutube.ru&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%8F%B3%EF%B8%8F
+
+vless://320824e385fa4d3e92dd35e025481084@138.124.126.241:44464?type=tcp&security=none&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+
+vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?type=tcp&security=reality&encryption=none&sni=www.samsung.com&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&sid=39a997621a3598c9&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+
+vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?type=raw&security=reality&flow=xtls-rprx-vision&encryption=none&sni=rutube.ru&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%8F%B3%EF%B8%8F
+
+vless://562cee82-1e2c-4475-9f96-a117b4af8655@213.176.113.41:8080?type=ws&security=none&encryption=none&path=%2Fvpn-stream#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&security=none&encryption=none#%F0%9F%87%B5%F0%9F%87%B9%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F
